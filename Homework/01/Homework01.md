@@ -138,6 +138,7 @@ void parse() {
 }
 ```
 ### Result
+```
 s=0;
 i=1;
 do {
